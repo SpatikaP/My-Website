@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(253, 197, 232);
+    margin: 0;
+    text-align: left;
+    font-family: Merriweather,Sacramento,Century Gothic, sans-serif;
+}
+h1{
+    margin-top: 0;
+    font-family: Montserrat;
+    font-size: 25px;
+    color: rgb(161, 25, 70);
+    /* width: 10%; */ 
+    /* margin: 0 auto 0 auto; */
+}
+h2{
+    font-family: Montserrat;  
+    color: rgb(161, 25, 70);
+}
+h3{
+    font-family: Montserrat;  
+}
+img{
+    /* background-color: rgb(253, 197, 232); */
+}
+.poem{
+    text-align:center;
+}
+.top-container{
+    /* background-color: rgb(253, 197, 232); */
+    text-align: center;
+    position: relative;
+    padding-top: 100px; 
+    height:250px; 
+    font-size: 2px;
+    /* margin: 10px; */
+    /* padding: 20px; */
+}
+.bottom-cloud{
+    position:absolute;
+    left:500px;
+    top:300px;
+    /* background-color:  rgb(253, 197, 232); */
+}
+.top-cloud{ 
+    position:absolute; 
+    right:300px; 
+    top: 50px;
+} 
+.middle-container{
+    /* background-color:  rgb(253, 197, 232); */
+    text-align: center;
+}
+.trauma{
+    /* background-color: rgb(253, 197, 232); */
+    text-align: center;
+}
+.places{
+    text-align: left;
+}
+.bottom-container{
+    /* background-color: rgb(253, 197, 232); */
+    text-align: center;
+}
+/* element.style {
+user agent stylesheet
+div {
+    display: block;
+} */
