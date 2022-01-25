@@ -19,8 +19,32 @@ h2{
 h3{
     font-family: Montserrat;  
 }
-img{
-    /* background-color: rgb(253, 197, 232); */
+.shoe{
+    width: 350px;
+}
+.support{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.mental-illness{
+    
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto; 
+}
+.anxiety{
+    height: 95px;
+    width: 95px;
+    background-color: white;
+}
+.script{
+    height: 100px;
+    width: 100px;   
 }
 .poem{
     text-align:center;
